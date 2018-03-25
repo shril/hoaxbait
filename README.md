@@ -20,9 +20,7 @@ overarching elements only:
 
 A schematic overview of the setup is provided below. Further detailed
 information can be found in a [short paper](http://arxiv.org/abs/1707.03264) on
-arXiv and the [model
-description](https://github.com/uclmr/fakenewschallenge/blob/master/description/uclmr_model_description.pdf)
-submitted as part of FNC-1.
+arXiv.
 
  
 
@@ -116,10 +114,12 @@ file.
 Team members
 ------------
 
--   [Anirudh Jain](/isabelleaugenstein.github)
+-   Anirudh Jain
 
 -   Shril Kumar
 
 -   Ajeet Singh
+
+-   Rishabh Thukral
 
 -   Madhavan Venkatesh
